@@ -1,0 +1,14 @@
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\net8.0\OrderProcessingSystem.exe
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\net8.0\OrderProcessingSystem.deps.json
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\net8.0\OrderProcessingSystem.runtimeconfig.json
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\net8.0\OrderProcessingSystem.dll
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\net8.0\OrderProcessingSystem.pdb
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.AssemblyInfoInputs.cache
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.AssemblyInfo.cs
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.csproj.CoreCompileInputs.cache
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.dll
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\net8.0\refint\OrderProcessingSystem.dll
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.pdb
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\net8.0\OrderProcessingSystem.genruntimeconfig.cache
+C:\Users\kirin\source\repos\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\net8.0\ref\OrderProcessingSystem.dll
